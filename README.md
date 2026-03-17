@@ -1,1 +1,1 @@
-<h1 align="center">Titulo centrado S</h1>
+<h1 align="center">Titulo centrado </h1>

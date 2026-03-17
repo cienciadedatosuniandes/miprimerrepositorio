@@ -21,7 +21,8 @@
 </details>
 
 
-[![Typing SVG](Para escribir una frase que vaya apareciendo)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=black&center=true&vCenter=true&width=2000&height=200&lines=Frase+en+movimiento;OPEN+SOURCE;CODING)](https://git.io/typing-svg)
 
 
 

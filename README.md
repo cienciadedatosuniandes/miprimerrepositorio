@@ -25,4 +25,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=black&center=true&vCenter=true&width=2000&height=200&lines=Frase+en+movimiento)](https://git.io/typing-svg)
 
 
+- Poner un objeto para abrir un link : <a href="https://tecnologia.uniandes.edu.co/bloqueneon//">  <img src="https://img.shields.io/badge/Bloque_Neon-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"> </a>
+
+
+### Una lista enumerada:
+
+1. Ejemplo 1
+2. Ejemplo 2
+3. ...
+4. ...
+
+#Ejemplo para poner una foto: 
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+
 
